@@ -1,0 +1,3 @@
+mv filename dir
+cp filename dir
+mv oldfname nFname

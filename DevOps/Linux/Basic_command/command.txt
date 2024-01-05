@@ -1,0 +1,15 @@
+mkdir
+cd
+cd..
+ls
+pwd
+rm
+cat
+echo
+rmdir
+touch
+man
+whoami
+vi
+nano
+

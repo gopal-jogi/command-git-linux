@@ -1,0 +1,15 @@
+git init
+git config user.name 'name'
+git config user.Email 'email'
+git add . /--all/-A/filename
+git commit -m "massage"
+git commit -am "massage"
+git remote add origin "remote url"
+git push origin master/branch
+git branch
+git branch branchName
+git checkout BName
+git checkout -b BName
+git log/--number/-filename/--oneline
+
+

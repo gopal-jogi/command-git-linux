@@ -1,0 +1,11 @@
+git config --edit
+git rm --cached filename
+git remote rm origin
+git checkout fname/.
+git reset filename/--soft/--hard commitID/--head HEAD
+git dif b1 b2
+git commit --ammand "message"
+git revert -m commitID
+git revert fname
+git fetch url
+git pull Url
