@@ -1,0 +1,12 @@
+sudo su
+adduser username
+passwd username
+su username
+exit
+userdel username
+groupadd groupname
+gpasswd groupname
+usermod -aG groupname username
+gpasswd -d username groupname
+groupdel groupname
+
